@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Css variables */
+:root{
+    --navbar-height:59px:
+
+}
+/* navbar */
+#navbar{
+    display:flex;
+}
